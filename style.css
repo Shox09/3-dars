@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+.flex-container{
+    display: flex;
+    gap: 230px;
+    padding: 30px;
+}
+b{
+    color: white;
+}
+h1{
+    color: white;
+   text-align: center;
+   margin-top: 60px;
+}
+
+.flex-container3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.flex-container1{
+    background-color: red;
+    padding: 90px;
+    width: 10%;
+    border-radius: 15px;
+    border: 5px solid white;
+}
+.flex-container2{
+    background-color: red;
+    padding: 90px;
+    width: 10%;
+    border-radius: 15px;
+    border: 5px solid white;
+}
+.flex-container4{
+    display: flex;
+    gap: 230px;
+    padding: 60px;
+    margin-top: 70px;
+}
